@@ -1,0 +1,184 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\onion-architecture-aspnetcore-main\\onion-architecture-aspnetcore-main\\OnionArchitecutre\\Presentation\\Presentation.csproj": {}
+  },
+  "projects": {
+    "D:\\onion-architecture-aspnetcore-main\\onion-architecture-aspnetcore-main\\OnionArchitecutre\\Contracts\\Contracts.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\onion-architecture-aspnetcore-main\\onion-architecture-aspnetcore-main\\OnionArchitecutre\\Contracts\\Contracts.csproj",
+        "projectName": "Contracts",
+        "projectPath": "D:\\onion-architecture-aspnetcore-main\\onion-architecture-aspnetcore-main\\OnionArchitecutre\\Contracts\\Contracts.csproj",
+        "packagesPath": "C:\\Users\\Lenovo t570\\.nuget\\packages\\",
+        "outputPath": "D:\\onion-architecture-aspnetcore-main\\onion-architecture-aspnetcore-main\\OnionArchitecutre\\Contracts\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Lenovo t570\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\onion-architecture-aspnetcore-main\\onion-architecture-aspnetcore-main\\OnionArchitecutre\\Presentation\\Presentation.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\onion-architecture-aspnetcore-main\\onion-architecture-aspnetcore-main\\OnionArchitecutre\\Presentation\\Presentation.csproj",
+        "projectName": "Presentation",
+        "projectPath": "D:\\onion-architecture-aspnetcore-main\\onion-architecture-aspnetcore-main\\OnionArchitecutre\\Presentation\\Presentation.csproj",
+        "packagesPath": "C:\\Users\\Lenovo t570\\.nuget\\packages\\",
+        "outputPath": "D:\\onion-architecture-aspnetcore-main\\onion-architecture-aspnetcore-main\\OnionArchitecutre\\Presentation\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Lenovo t570\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "D:\\onion-architecture-aspnetcore-main\\onion-architecture-aspnetcore-main\\OnionArchitecutre\\Services.Abstractions\\Services.Abstractions.csproj": {
+                "projectPath": "D:\\onion-architecture-aspnetcore-main\\onion-architecture-aspnetcore-main\\OnionArchitecutre\\Services.Abstractions\\Services.Abstractions.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Mvc.Core": {
+              "target": "Package",
+              "version": "[2.2.5, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\onion-architecture-aspnetcore-main\\onion-architecture-aspnetcore-main\\OnionArchitecutre\\Services.Abstractions\\Services.Abstractions.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\onion-architecture-aspnetcore-main\\onion-architecture-aspnetcore-main\\OnionArchitecutre\\Services.Abstractions\\Services.Abstractions.csproj",
+        "projectName": "Services.Abstractions",
+        "projectPath": "D:\\onion-architecture-aspnetcore-main\\onion-architecture-aspnetcore-main\\OnionArchitecutre\\Services.Abstractions\\Services.Abstractions.csproj",
+        "packagesPath": "C:\\Users\\Lenovo t570\\.nuget\\packages\\",
+        "outputPath": "D:\\onion-architecture-aspnetcore-main\\onion-architecture-aspnetcore-main\\OnionArchitecutre\\Services.Abstractions\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Lenovo t570\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "D:\\onion-architecture-aspnetcore-main\\onion-architecture-aspnetcore-main\\OnionArchitecutre\\Contracts\\Contracts.csproj": {
+                "projectPath": "D:\\onion-architecture-aspnetcore-main\\onion-architecture-aspnetcore-main\\OnionArchitecutre\\Contracts\\Contracts.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

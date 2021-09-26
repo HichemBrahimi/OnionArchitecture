@@ -1,0 +1,15 @@
+D:\onion-architecture-aspnetcore-main\onion-architecture-aspnetcore-main\OnionArchitecutre\Persistence\bin\Debug\net5.0\Persistence.deps.json
+D:\onion-architecture-aspnetcore-main\onion-architecture-aspnetcore-main\OnionArchitecutre\Persistence\bin\Debug\net5.0\Persistence.dll
+D:\onion-architecture-aspnetcore-main\onion-architecture-aspnetcore-main\OnionArchitecutre\Persistence\bin\Debug\net5.0\ref\Persistence.dll
+D:\onion-architecture-aspnetcore-main\onion-architecture-aspnetcore-main\OnionArchitecutre\Persistence\bin\Debug\net5.0\Persistence.pdb
+D:\onion-architecture-aspnetcore-main\onion-architecture-aspnetcore-main\OnionArchitecutre\Persistence\bin\Debug\net5.0\Domain.dll
+D:\onion-architecture-aspnetcore-main\onion-architecture-aspnetcore-main\OnionArchitecutre\Persistence\bin\Debug\net5.0\Domain.pdb
+D:\onion-architecture-aspnetcore-main\onion-architecture-aspnetcore-main\OnionArchitecutre\Persistence\obj\Debug\net5.0\Persistence.csproj.AssemblyReference.cache
+D:\onion-architecture-aspnetcore-main\onion-architecture-aspnetcore-main\OnionArchitecutre\Persistence\obj\Debug\net5.0\Persistence.GeneratedMSBuildEditorConfig.editorconfig
+D:\onion-architecture-aspnetcore-main\onion-architecture-aspnetcore-main\OnionArchitecutre\Persistence\obj\Debug\net5.0\Persistence.AssemblyInfoInputs.cache
+D:\onion-architecture-aspnetcore-main\onion-architecture-aspnetcore-main\OnionArchitecutre\Persistence\obj\Debug\net5.0\Persistence.AssemblyInfo.cs
+D:\onion-architecture-aspnetcore-main\onion-architecture-aspnetcore-main\OnionArchitecutre\Persistence\obj\Debug\net5.0\Persistence.csproj.CoreCompileInputs.cache
+D:\onion-architecture-aspnetcore-main\onion-architecture-aspnetcore-main\OnionArchitecutre\Persistence\obj\Debug\net5.0\Persistence.csproj.CopyComplete
+D:\onion-architecture-aspnetcore-main\onion-architecture-aspnetcore-main\OnionArchitecutre\Persistence\obj\Debug\net5.0\Persistence.dll
+D:\onion-architecture-aspnetcore-main\onion-architecture-aspnetcore-main\OnionArchitecutre\Persistence\obj\Debug\net5.0\ref\Persistence.dll
+D:\onion-architecture-aspnetcore-main\onion-architecture-aspnetcore-main\OnionArchitecutre\Persistence\obj\Debug\net5.0\Persistence.pdb

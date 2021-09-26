@@ -1,0 +1,12 @@
+D:\onion-architecture-aspnetcore-main\onion-architecture-aspnetcore-main\OnionArchitecutre\Domain\bin\Debug\net5.0\Domain.deps.json
+D:\onion-architecture-aspnetcore-main\onion-architecture-aspnetcore-main\OnionArchitecutre\Domain\bin\Debug\net5.0\Domain.dll
+D:\onion-architecture-aspnetcore-main\onion-architecture-aspnetcore-main\OnionArchitecutre\Domain\bin\Debug\net5.0\ref\Domain.dll
+D:\onion-architecture-aspnetcore-main\onion-architecture-aspnetcore-main\OnionArchitecutre\Domain\bin\Debug\net5.0\Domain.pdb
+D:\onion-architecture-aspnetcore-main\onion-architecture-aspnetcore-main\OnionArchitecutre\Domain\obj\Debug\net5.0\Domain.csproj.AssemblyReference.cache
+D:\onion-architecture-aspnetcore-main\onion-architecture-aspnetcore-main\OnionArchitecutre\Domain\obj\Debug\net5.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\onion-architecture-aspnetcore-main\onion-architecture-aspnetcore-main\OnionArchitecutre\Domain\obj\Debug\net5.0\Domain.AssemblyInfoInputs.cache
+D:\onion-architecture-aspnetcore-main\onion-architecture-aspnetcore-main\OnionArchitecutre\Domain\obj\Debug\net5.0\Domain.AssemblyInfo.cs
+D:\onion-architecture-aspnetcore-main\onion-architecture-aspnetcore-main\OnionArchitecutre\Domain\obj\Debug\net5.0\Domain.csproj.CoreCompileInputs.cache
+D:\onion-architecture-aspnetcore-main\onion-architecture-aspnetcore-main\OnionArchitecutre\Domain\obj\Debug\net5.0\Domain.dll
+D:\onion-architecture-aspnetcore-main\onion-architecture-aspnetcore-main\OnionArchitecutre\Domain\obj\Debug\net5.0\ref\Domain.dll
+D:\onion-architecture-aspnetcore-main\onion-architecture-aspnetcore-main\OnionArchitecutre\Domain\obj\Debug\net5.0\Domain.pdb
